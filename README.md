@@ -6,7 +6,7 @@
 
 ---
 
-A simple and lightweight but powerful NodeJS client for [GitBook](http://gitbook.com) GraphQL API.
+A simple and lightweight but powerful NodeJS client for [Hashnode](http://hashnode.com) GraphQL API.
 
 ## 😎 Demo
 
