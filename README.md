@@ -38,7 +38,7 @@ For any questions, suggestions, ideas, or simply you want to share your experien
 
 ## 🐛 Issues
 
-If you're facing a problem in using GatherTownJS please let me know by [creating an issue here](https://github.com/warengonzaga/hashnode.js/issues/new). I'm here to help you!
+If you're facing a problem in using HashnodeJS please let me know by [creating an issue here](https://github.com/warengonzaga/hashnode.js/issues/new). I'm here to help you!
 
 ## 🍀 Sponsors and Supporters
 

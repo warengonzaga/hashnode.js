@@ -25,5 +25,9 @@
   "homepage": "https://github.com/WarenGonzaga/hashnode.js#readme",
   "devDependencies": {
     "parcel": "^2.0.1"
+  },
+  "engines": {
+    "node": ">=16.6.0",
+    "npm": ">=7.0.0"
   }
 }
