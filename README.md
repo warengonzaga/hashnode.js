@@ -1,4 +1,4 @@
-# HashnodeJS [![huntr](https://cdn.huntr.dev/huntr_security_badge_mono.svg)](https://huntr.dev)
+# HashnodeJS [![huntr](https://cdn.huntr.dev/huntr_security_badge_mono.svg)](https://huntr.dev) ![status](https://img.shields.io/badge/status-%F0%9F%9A%A7%20work%20in%20progress%20%F0%9F%9A%A7-blue.svg?longCache=true)
 
 [![created by](https://img.shields.io/badge/created%20by-Waren%20Gonzaga-blue.svg?longCache=true&style=flat-square)](https://github.com/warengonzaga) [![release](https://img.shields.io/github/release/warengonzaga/hashnode.js.svg?style=flat-square)](https://github.com/warengonzaga/hashnode.js/releases) [![star](https://img.shields.io/github/stars/warengonzaga/hashnode.js.svg?style=flat-square)](https://github.com/warengonzaga/hashnode.js/stargazers) [![license](https://img.shields.io/github/license/warengonzaga/hashnode.js.svg?style=flat-square)](https://github.com/warengonzaga/hashnode.js/blob/main/license)
 
